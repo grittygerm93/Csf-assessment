@@ -1,0 +1,6 @@
+[submodule "csfa-client1"]
+	path = csfa-client1
+	url = https://github.com/grittygerm93/csfa-client.git
+[submodule "csfa-backend1"]
+	path = csfa-backend1
+	url = https://github.com/grittygerm93/csfa-backend.git
